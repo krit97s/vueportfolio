@@ -474,9 +474,9 @@ li a:hover {
       rgba(20, 20, 20, 0.5)
     ),url('../assets/img/IMG_4961.jpg');
   background-repeat: no-repeat;
-  background-position:  whatever whatever;
+  background-position: center bottom;
   background-size: cover;
-  position: whatever;
+  position: relative;
 }
 .logo-profile {
   background-image: url('../assets/img/IMG_4957.jpg');
