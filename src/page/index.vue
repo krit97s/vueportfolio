@@ -18,10 +18,10 @@
             JAKKRIT SINGSAT
           </div>
           <div class="social-box">
-            <i class="fab fa-facebook"></i>
+            <!-- <i class="fab fa-facebook"></i>
             <i class="fab fa-instagram"></i>
             <i class="fab fa-twitter"></i>
-            <i class="fab fa-youtube"></i>
+            <i class="fab fa-youtube"></i> -->
           </div>
         </div>
       </nav>
